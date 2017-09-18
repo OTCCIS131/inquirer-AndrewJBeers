@@ -1,0 +1,23 @@
+{
+  "name": "inquirer-andrewjbeers",
+  "version": "1.0.0",
+  "description": "inquirer-AndrewJBeers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTCCIS131/inquirer-AndrewJBeers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTCCIS131/inquirer-AndrewJBeers/issues"
+  },
+  "homepage": "https://github.com/OTCCIS131/inquirer-AndrewJBeers#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "inquirer": "^3.3.0"
+  }
+}
